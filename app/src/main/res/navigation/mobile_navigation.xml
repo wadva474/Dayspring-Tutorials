@@ -28,21 +28,21 @@
     </fragment>
 
     <fragment
-        android:id="@+id/nav_gallery"
+        android:id="@+id/nav_leaderboard"
         android:name="com.atuma.dayspringtutorials.ui.gallery.GalleryFragment"
-        android:label="@string/menu_gallery"
+        android:label="@string/menu_leaderboard"
         tools:layout="@layout/fragment_gallery" />
 
     <fragment
-        android:id="@+id/nav_slideshow"
+        android:id="@+id/nav_forum"
         android:name="com.atuma.dayspringtutorials.ui.slideshow.SlideshowFragment"
-        android:label="@string/menu_slideshow"
+        android:label="@string/menu_forum"
         tools:layout="@layout/fragment_slideshow" />
 
     <fragment
-        android:id="@+id/nav_tools"
+        android:id="@+id/nav_campus_news"
         android:name="com.atuma.dayspringtutorials.ui.tools.ToolsFragment"
-        android:label="@string/menu_tools"
+        android:label="@string/menu_campus_news"
         tools:layout="@layout/fragment_tools" />
 
     <fragment

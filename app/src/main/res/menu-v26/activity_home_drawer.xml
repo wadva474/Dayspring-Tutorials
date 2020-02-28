@@ -8,28 +8,23 @@
             android:id="@+id/nav_home"
             android:iconTint="#da6c0d"
             android:icon="@drawable/ic_house_black_silhouette_without_door"
-            android:title="@string/menu_home"
-            tools:targetApi="o" />
+            android:title="@string/menu_home" />
 
         <item
             android:id="@+id/nav_leaderboard"
             android:icon="@drawable/ic_podium"
-            android:iconTint="#568215"
             android:title="@string/menu_leaderboard" />
         <item
             android:id="@+id/nav_forum"
             android:icon="@drawable/ic_chat"
-            android:iconTint="#2d6e89"
             android:title="@string/menu_forum" />
         <item
             android:id="@+id/nav_campus_news"
-            android:iconTint="#0a212e"
             android:icon="@drawable/ic_promotion"
             android:title="@string/menu_campus_news" />
         <item
             android:id="@+id/nav_accomodation"
             android:icon="@drawable/ic_bed"
-            android:iconTint="#b51317"
             android:title="@string/menu_accomodation"
             />
         <item

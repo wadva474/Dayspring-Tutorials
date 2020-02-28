@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "417225585017",
+    "firebase_url": "https://dayspring-tutorial.firebaseio.com",
+    "project_id": "dayspring-tutorial",
+    "storage_bucket": "dayspring-tutorial.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:417225585017:android:1f3e7f30f4276301a17fa8",
+        "android_client_info": {
+          "package_name": "com.atuma.dayspringtutorials"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "417225585017-nerc3uqekr439k3u3e72vihs6f8s28qf.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.atuma.dayspringtutorials",
+            "certificate_hash": "ea5e73a6a51cf8f63f600599619c88357621f4a2"
+          }
+        },
+        {
+          "client_id": "417225585017-7jt07jl72amuak73clgjjcpel2411ee0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDn-oXpelmMHEyLbI0YKgtoB8jEbAyoRRY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "417225585017-7jt07jl72amuak73clgjjcpel2411ee0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

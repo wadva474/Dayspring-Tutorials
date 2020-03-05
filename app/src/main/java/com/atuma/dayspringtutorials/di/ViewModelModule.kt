@@ -1,4 +1,4 @@
-package com.atuma.dayspringtutorials.DI
+package com.atuma.dayspringtutorials.di
 
 import androidx.lifecycle.ViewModel
 import androidx.lifecycle.ViewModelProvider

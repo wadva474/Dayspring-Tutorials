@@ -1,4 +1,4 @@
-package com.atuma.dayspringtutorials.DI
+package com.atuma.dayspringtutorials.di
 
 import android.app.Application
 import com.atuma.dayspringtutorials.ui.home.HomeFragment
